@@ -116,12 +116,6 @@ header a:hover{
   margin-top:15px;
 }
 
-#works input[type="email"]{
-  padding:4px;
-  height:25px;
-  width:250px;
-}
-
 /* Boxes */
 #boxes{
   margin-top:20px;
@@ -195,14 +189,3 @@ footer{
   #show h1{
     margin-top:40px;
   }
-
-  #works button, .quote button{
-    display:block;
-    width:100%;
-  }
-
-  #works form input[type="email"], .quote input, .quote textarea{
-    width:100%;
-    margin-bottom:5px;
-  }
-}
