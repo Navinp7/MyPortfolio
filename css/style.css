@@ -33,13 +33,6 @@ ul{
   margin-bottom:10px;
 }
 
-/* Header **/
-.logo{
-  width:  1px;
-  height: 1px;
-  position: inherit;
-}
-
 header{
   background:#3fbcef;
   color:#000;
@@ -100,7 +93,6 @@ header a:hover{
   font-size:20px;
 }
 
-/* Newsletter */
 #works{
   padding:15px;
   color:#ffffff;
@@ -116,7 +108,6 @@ header a:hover{
   margin-top:15px;
 }
 
-/* Boxes */
 #boxes{
   margin-top:20px;
 }
@@ -132,25 +123,17 @@ header a:hover{
   width:90px;
 }
 
-/* Sidebar */
 aside#side{
   float:right;
   width:30%;
   margin-top:10px;
 }
 
-aside#side .quote input, aside#side .quote textarea{
-  width:90%;
-  padding:5px;
-}
-
-/* Main-col */
 article#main-col{
   float:left;
   width:65%;
 }
 
-/* Services */
 ul#link li{
   list-style: none;
   padding:20px;
@@ -167,7 +150,6 @@ footer{
   text-align: center;
 }
 
-/* Media Queries */
 @media(max-width: 768px){
   header #info,
   header nav,
